@@ -1,0 +1,23 @@
+{
+  "name": "react-native-javascript",
+  "version": "0.78.0",
+  "description": "It is React Native template with JavaScript setup",
+  "keywords": [
+    "javascript"
+  ],
+  "homepage": "https://github.com/yulirumahorbo-dev/custom-template-javascript#readme",
+  "bugs": {
+    "url": "https://github.com/yulirumahorbo-dev/custom-template-javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulirumahorbo-dev/custom-template-javascript.git"
+  },
+  "license": "MIT",
+  "author": "Yuli Rumahorbo",
+  "type": "commonjs",
+  "main": "template.config.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
